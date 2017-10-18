@@ -14,8 +14,15 @@ Project Preliminary Database Design :
   1.3 ~ The database will provide a user with their audio files, url to songs,
         their account information, information regarding a certain song such as artist
         and genre, and all the songs in a certain album.
-  1.4 ~ |Song ID | Title | Artist | Album | Genre | year produced |
+  1.4 ~
 
-        | User ID | User Name | email address | date of birth |
+  | Song ID | Title | Artist | Album | Genre | year produced |
+  |---|---|---|---|---|---|
+  | 122323  | Jay's song | Jay Patel | First Album | country | 1999 |
+
+  | User ID | User Name | password | email address | date of birth |
+  |---|---|---|---|---|
+  | 98776 | Elizabeth | 1234 | eshen1@lion.lmu.edu | 5/17/1992 |
+
 
   1.5 ~ TBD
