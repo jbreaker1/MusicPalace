@@ -20,11 +20,14 @@
   |---|---|---|---|---|---|
   | 122323  | Jay's song | Jay Patel | First Album | country | 1999 |
 
-  | User ID | User Name | password | email address | date of birth | Database ID |
+  | User ID | User Name | password | email address | date of birth | Music Palace ID |
   |---|---|---|---|---|---|
   | 98776 | Elizabeth | 1234 | eshen1@lion.lmu.edu | 5/17/1992 | 369 |
 
-  | Database ID | Database Name |
+  | Music Palace ID | Music Palace Name | Song ID |
+  |---|---|---|
+  | 369 | My Music | Song ID |
+
 
 
   1.5 ![Image of ERD](/images/ERD.jpg?raw=true)
