@@ -27,4 +27,4 @@
   | Database ID | Database Name |
 
 
-  1.5 ~ ![Image of ERD](/images/ERD.jpg?raw=true)
+  1.5 ![Image of ERD](/images/ERD.jpg?raw=true)
