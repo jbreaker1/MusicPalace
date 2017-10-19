@@ -24,9 +24,9 @@
   |---|---|---|---|---|---|
   | 98776 | Elizabeth | 1234 | eshen1@lion.lmu.edu | 5/17/1992 | 369 |
 
-  | Music Palace ID | Music Palace Name | Song ID |
+  | Music Palace ID | Music Palace Name | Songs |
   |---|---|---|
-  | 369 | My Music | Song ID |
+  | 369 | My Music | my songs |
 
 
 
