@@ -20,9 +20,11 @@ Project Preliminary Database Design :
   |---|---|---|---|---|---|
   | 122323  | Jay's song | Jay Patel | First Album | country | 1999 |
 
-  | User ID | User Name | password | email address | date of birth |
-  |---|---|---|---|---|
-  | 98776 | Elizabeth | 1234 | eshen1@lion.lmu.edu | 5/17/1992 |
+  | User ID | User Name | password | email address | date of birth | Database ID |
+  |---|---|---|---|---|---|
+  | 98776 | Elizabeth | 1234 | eshen1@lion.lmu.edu | 5/17/1992 | 369 |
+
+  | Database ID | Database Name | 
 
 
   1.5 ~ TBD
