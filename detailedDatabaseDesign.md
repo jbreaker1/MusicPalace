@@ -8,12 +8,16 @@ easily access and store their music. The users will not be able to share
 their music with other users; the database will be for personal storage only.
 We plan on only storing either the url of a song or the audio file and not
 their respective music videos and the database of choice will be mySQL.
+
 ### 2.1.2 Database Engine Used
-We are using SQL to complete our database project and we are using a MusicID for our primary key. We want to have it so that our engine has a table that allows the user to look up songs and can add them easily or a user can add their own music with the add button which the user must fill out certain criteria such as the name of the song, artist, and album its from.
+We are using SQL to complete our database project and we are using a MusicID for our primary key. We want to have it so that our engine has a table that allows the user to look up songs and can add them easily or a user can add their own music with the add button which the user must fill out certain criteria such as the name of the song, artist, and album its from. We are going to use MySQL because it is one of the more popular databases and it has many features and has many open-source product that powers a lot of web-sites and applications online. Getting started with MySQL is relatively easy and developers have access to a massive array of information regarding the database on the internet. SQL Queries can be used to retrieve large amounts of
+records from a database quickly and efficiently.
+
 ### 2.1.3 Potential users
 The primary user base will be people who listen to music so almost everyone. It will
 be for people that want to store their music and who want to be able to access it
 easily and quickly.
+
 ### 2.1.4 Miscellaneous
 
 ## 2.2 Data Dictionary, meaning a bullet list of the final tables/columns with a complete description of each
