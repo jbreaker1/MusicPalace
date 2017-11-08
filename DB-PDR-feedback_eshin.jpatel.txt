@@ -1,0 +1,16 @@
+
+
+Jay and Elizabeth ---
+
+Good job on this document.
+
+For section 1.3, you should have more detailed information about what the
+user will be wanting to see.  For example, "How many songs were produced in
+2011?" or "What album contains the song 'My Way' produced in 1935?"
+
+The ERD looks great, but you need to underline the primary keys.
+
+Nice work...
+
+Total: 9.5% out of 10% which is an A.
+
