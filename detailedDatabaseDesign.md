@@ -10,8 +10,7 @@ We plan on only storing either the url of a song or the audio file and not
 their respective music videos and the database of choice will be mySQL.
 
 ### 2.1.2 Database Engine Used
-We are using SQL to complete our database project and we are using a MusicID for our primary key. We want to have it so that our engine has a table that allows the user to look up songs and can add them easily or a user can add their own music with the add button which the user must fill out certain criteria such as the name of the song, artist, and album its from. We are going to use MySQL because it is one of the more popular databases and it has many features and has many open-source product that powers a lot of web-sites and applications online. Getting started with MySQL is relatively easy and developers have access to a massive array of information regarding the database on the internet. SQL Queries can be used to retrieve large amounts of
-records from a database quickly and efficiently.
+We are using mongo to complete our database project. We want to have it so that our engine makes a table whenever a user makes a new MusicPalace which allows a user to store any type of song in there and is allowed to make different MusicPalaces that allows the user to look up songs and can add them easily or a user can add their own music with the add button which the user must fill out certain criteria such as the name of the song, artist, and album its from. We are going to Mongo because it is a document oriented storage system and it can index on any attribute, has auto-sharing, and rich queries. It also makes it easy to store audio files and urls.
 
 ### 2.1.3 Potential users
 The primary user base will be people who listen to music so almost everyone. It will
@@ -33,9 +32,9 @@ easily and quickly.
 ### User Table
 - User ID - This is a unique ID associated with the user. The User ID is the primary key for the user table.
 - User Name - This is the user's first and last name. The user will enter their full name when they create a Music Palace.
-- password - This is the password chosen by the user when they sign up for Music Palace.
-- email address - This is the email address that the user enter's when they create a Music Palace.
-- date of birth - This is the date of birth of the user. This will also be entered into the database when a new user signs up.
+- Password - This is the password chosen by the user when they sign up for Music Palace.
+- Email Address - This is the email address that the user enter's when they create a Music Palace.
+- Date of Birth - This is the date of birth of the user. This will also be entered into the database when a new user signs up.
 - Music Palace ID - This is the unique ID associated with the user's Music Palace. This ID will be generated when the user creates the Music Palace.
 
 ### Music Palace table
