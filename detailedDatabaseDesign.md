@@ -43,3 +43,5 @@ easily and quickly.
 - Songs - This is the list of song ID's that are associated with the Music Palace.
 
 ## 2.3 A complete finalized Entity-Relationship Diagram [ERD] for the database
+
+![Image of ERD](/images/ERD2.jpg)
