@@ -18,6 +18,7 @@ be for people that want to store their music and who want to be able to access i
 easily and quickly.
 
 ### 2.1.4 Miscellaneous
+This database is intended for individual use only. As of now, the user will have access to his or her own songs only. There is no sharing feature for the audio files.
 
 ## 2.2 Data Dictionary, meaning a bullet list of the final tables/columns with a complete description of each
 
