@@ -1,4 +1,12 @@
-let conn = new Mongo();
-let db = conn.getDB("MusicPalace");
-let collec = db.getCollectionNames()
-print(collec);
+let MongoClient = require('mongodb').MongoClient;
+let url = "mongodb://localhost:27017/MusicPalace";
+
+MongoClient.connect(url, function(err, db) {
+  if (err) throw err;
+  let query = { song: "Pompei" };
+  db.collection("fs.files").find(query).toArray(function(err, result) {
+    if (err) throw err;
+    console.log(result);
+    db.close();
+  });
+});
