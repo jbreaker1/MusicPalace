@@ -1,8 +1,14 @@
 # User Manual
 
-### This is a user's guide to creating your own Music Palace using mongo. These instructions are under the assumption that the user has mongodb installed under 
+### This is a user's guide to creating your own Music Palace using mongo. These instructions are under the assumption that the user has mongodb installed under
 
-#### Step 1 ~
+#### Step 1 ~ Start mongodb
+
+#### Step 2 ~ Connect to mongodb
+
+#### Step 3 ~ 
+
+
 
 commands:
 - mongod -dbpath /Users/Jay/data/db
