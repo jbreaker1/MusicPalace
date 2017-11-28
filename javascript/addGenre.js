@@ -10,7 +10,7 @@ MongoClient.connect(url, function(err, db) {
   let newvalues = { $set: { genre: genre1} };
   db.collection("fs.files").updateOne(myquery, newvalues, function(err, res) {
     if (err) throw err;
-    console.log("Added genre to "+ myquery[0] + " by " + myquery[1]);
+    console.log("Added genre " + genre1 + " to "+ song1 + " by " + artist1);
     db.close();
   });
 });

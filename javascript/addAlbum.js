@@ -10,7 +10,7 @@ MongoClient.connect(url, function(err, db) {
   let newvalues = { $set: { album: album1} };
   db.collection("fs.files").updateOne(myquery, newvalues, function(err, res) {
     if (err) throw err;
-    console.log(myquery[0] + " by " + myquery[1] + " is in " + album1 + " album");
+    console.log(song1 + " by " + arist1 + " is in " + album1 + " album");
     db.close();
   });
 });
