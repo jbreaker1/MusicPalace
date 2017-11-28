@@ -18,4 +18,4 @@
 
 ### 11/25/17 ~ We created .js files to do our mongo commands to make the user experience and testing of our database easier.
 
-### 11/27/17 ~ During our last meeting, we practiced our presentation by running the commands that we plan on demonstrating to the class. We also finished adding .js files to navigate our database.
+### 11/27/17 ~ During our last meeting, we practiced our presentation by running the commands that we plan on demonstrating to the class. We also wrote the user manual with all the necessary steps in order for a user to create a Music Palace. We also finished adding .js files to help navigate our database.
